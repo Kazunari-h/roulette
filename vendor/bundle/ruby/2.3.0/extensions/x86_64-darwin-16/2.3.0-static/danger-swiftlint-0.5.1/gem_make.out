@@ -1,4 +1,0 @@
-current directory: /Users/hirosawak/GitHub/roulette/vendor/bundle/ruby/2.3.0/gems/danger-swiftlint-0.5.1/ext/swiftlint
-/Users/hirosawak/.rbenv/versions/2.3.0/bin/ruby -rubygems /Users/hirosawak/GitHub/roulette/vendor/bundle/ruby/2.3.0/gems/rake-12.0.0/exe/rake RUBYARCHDIR=/Users/hirosawak/GitHub/roulette/vendor/bundle/ruby/2.3.0/extensions/x86_64-darwin-16/2.3.0-static/danger-swiftlint-0.5.1 RUBYLIBDIR=/Users/hirosawak/GitHub/roulette/vendor/bundle/ruby/2.3.0/extensions/x86_64-darwin-16/2.3.0-static/danger-swiftlint-0.5.1
-mkdir -p /Users/hirosawak/GitHub/roulette/vendor/bundle/ruby/2.3.0/gems/danger-swiftlint-0.5.1/ext/swiftlint/bin && curl -s -L https://github.com/realm/SwiftLint/releases/download/0.18.1/portable_swiftlint.zip -o portable_swiftlint.zip && unzip -q portable_swiftlint.zip -d /Users/hirosawak/GitHub/roulette/vendor/bundle/ruby/2.3.0/gems/danger-swiftlint-0.5.1/ext/swiftlint/bin && rm portable_swiftlint.zip
-Downloading swiftlint@0.18.1
