@@ -24,4 +24,5 @@ xcuserdata/
 *.xccheckout
 *.xcscmblueprint
 
-
+vendor/
+report.xml
